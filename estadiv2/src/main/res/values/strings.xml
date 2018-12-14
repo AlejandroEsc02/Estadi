@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Estadiv2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Log">Login</string>
+    <string name="correo">Email:</string>
+    <string name="contra">Contraseña:</string>
+    <string name="login">Ingresar</string>
+    <string name="regis">Registrarse</string>
+    <string name="Reg">Registro</string>
+    <string name="recontra">Repita Contraseña:</string>
+    <string name="registrar">Registrarse</string>
+    <string name="volver">Volver</string>
+    <string name="miperfil">Mi Perfil</string>
+    <string name="cerrar">Cerrar Sesión</string>
+    <string name="info">Bienvenido a Estadi, el lugar donde podrás compartir tus conocimientos libremente y lo mas importante, ganar mas conocimiento en lo que quieras!</string>
+    <string name="prin">Principal</string>
+    <string name="a" />
+    <string name="princ">Principal</string>
+    <string name="Estadi">Estadi</string>
+    <string name="title_activity_categorias">CategoriasActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Preguntas">Preguntas</string>
+    <string name="Mate">Matemática</string>
+    <string name="fisica">Física</string>
+    <string name="social">Social</string>
+    <string name="seniales">Seniales</string>
+    <string name="hpregunt">Has una pregunta!</string>
+    <string name="ask">Preguntar!</string>
+    <string name="salir">Salir</string>
+    <string name="mascu">Masculino</string>
+    <string name="feme">Femenino</string>
+    <string name="generales">General</string>
+    <string name="Pregunta">Pregunta</string>
+    <string name="Usuario">Usuario</string>
+    <string name="cate">Selecciona categoría:</string>
+    <string name="asesores">Asesores:</string>
+    <string name="Respuesta">Respuesta</string>
+    <string name="hrespuesta">Escribe tu respuesta!</string>
+    <string name="answer">Responder!</string>
+    <string name="easesor">¿Asesor? ¿En qué?</string>
+    <string name="asesoria">Asesoría:</string>
+    <string name="EditarP">Editar Perfil</string>
+    <string name="guardar">Guardar</string>
+    <string name="EstadiM">ESTADI</string>
+    <string name="Fecha">Fecha</string>
+</resources>

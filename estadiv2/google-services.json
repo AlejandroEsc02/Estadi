@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "172347223845",
+    "firebase_url": "https://estadi-c195e.firebaseio.com",
+    "project_id": "estadi-c195e",
+    "storage_bucket": "estadi-c195e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172347223845:android:50e590a1bc86cac8",
+        "android_client_info": {
+          "package_name": "com.example.estadiv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172347223845-p66rs22sj4fhkru5nkuf07ml0ss6qlvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estadiv2",
+            "certificate_hash": "26ed1d5dce08d4ff5fe62b6aae79fa60a25b3762"
+          }
+        },
+        {
+          "client_id": "172347223845-mi986taia4ma8m38fm3cqp64cre9mo49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTWGSVJEO6A96y7eY1ujlG4WdVtZL3Nyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172347223845-mi986taia4ma8m38fm3cqp64cre9mo49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

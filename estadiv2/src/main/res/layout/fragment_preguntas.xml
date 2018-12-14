@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".PreguntasFragment"
+    android:orientation="vertical">
+
+
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            app:tabSelectedTextColor="@color/white"
+            >
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/tabmatematica"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Mate"
+                />
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/tabfisica"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fisica" />
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/tabsocial"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/social" />
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/tabgeneral"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/generales" />
+
+             </android.support.design.widget.TabLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+
+</LinearLayout>
